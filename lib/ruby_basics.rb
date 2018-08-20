@@ -16,7 +16,8 @@ def greeting(name, phone)
 
 end
 
-def return_a_value(pharse = "Nice")
+def return_a_value
+  pharse = "nice"
 
 end
 
